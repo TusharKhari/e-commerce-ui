@@ -1,5 +1,10 @@
 # ecommerce_shop_app
 
+steps to run project :
+1. colne the repo
+2. run flutter pub get
+3. run fluttret run
+
 A new Flutter project.
 
 ## Getting Started
